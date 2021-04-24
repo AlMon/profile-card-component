@@ -17,7 +17,7 @@ export default function Home() {
         <div className="shadow-2xl z-10 bg-white text-center min-w-[349px] max-w-full rounded-2xl overflow-hidden">
           <div
             className="h-[140px] bg-no-repeat max-w-full"
-            style={{ background: "url('/bg-pattern-card.svg'" }}
+            style={{ background: `url("/bg-pattern-card.svg")` }}
           ></div>
           <img
             src="/avatar.jpg"
